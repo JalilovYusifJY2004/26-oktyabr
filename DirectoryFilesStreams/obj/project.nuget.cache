@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y38tPTdcSmwcyKG2YCoaC5ejRGV6ld+t+cJPPl9cFB1Ie4cu/VSpJh24yqkNWi+d147ubMG9plNhDadd/RCWUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Xeyal\\Desktop\\AB104(Task25.10)\\DirectoryFilesStreams\\DirectoryFilesStreams.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xeyal\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
